@@ -2,7 +2,7 @@
 
 # 🐍 KOBRA OS
 
-### *Professional Cyber Security Distribution*
+### *Professional Cyberpunk-Theme Security Distribution*
 
 [![OS Base](https://img.shields.io/badge/Base-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Desktop Environment](https://img.shields.io/badge/Desktop-XFCE4-1070C0?style=for-the-badge&logo=xfce&logoColor=white)](https://xfce.org/)
@@ -57,22 +57,15 @@
       <b>Abdullah Saki</b><br>
       <i>Lead OS Developer & Cybersecurity Specialist</i>
       <br><br>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-      <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-      <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-      <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-      <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+      <a href="https://github.com/SkyAuctus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://www.facebook.com/SkyAuctus/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     </td>
     <td align="center" width="50%">
       <b>Foysal Ahmed</b><br>
       <i>Web Infrastructure & Operations Manager</i>
       <br><br>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-      <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-      <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-      <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+      <a href="https://github.com/SkyAuctus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://www.facebook.com/SkyAuctus/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -83,11 +76,12 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SkyAuctus/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/skyauctus)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@skyauctusofficial)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SkyAuctus)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@skyauctus)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SkyAuctus/)
 
 <br>
 
