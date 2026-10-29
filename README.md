@@ -1,67 +1,46 @@
+<div align="center">
 
 # 🐍 KOBRA OS
 
+### *Next-Generation Cyberpunk Security Distribution*
+
+[![OS Base](https://img.shields.io/badge/Base-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Desktop Environment](https://img.shields.io/badge/Desktop-XFCE4-1070C0?style=for-the-badge&logo=xfce&logoColor=white)](https://xfce.org/)
+[![Architecture](https://img.shields.io/badge/Architecture-x86__64%20%7C%20ARM64-00599C?style=for-the-badge)](https://github.com/SkyAuctus/kobra-os)
+[![License](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)](LICENSE)
+
 <p align="center">
-  <b>A lightweight, cyberpunk-themed operating system engineered for elite cybersecurity specialists, ethical hackers, and penetration testers.</b>
+  <b>A ultra-lightweight, high-performance operating system engineered for elite cybersecurity specialists, red team operators, and penetration testers. Developed under SkyAuctus.</b>
 </p>
 
 ---
 
-## 🚀 Project Status & Progress
+</div>
 
-* **Core Architecture Design & Setup:** `[████████████████████] 100%` (Completed)
-* **UI/UX Glassmorphism & Visual Styling:** `[████████████████......] 80%` (In Progress)
-* **System Bloatware Pruning & Optimization:** `[████████..............] 40%` (Pending)
-* **Custom ISO Live-Pack Packaging:** `[████..................] 20%` (Queued)
-* **ARM64 Hardware Porting (Pi-Pack):** `[██....................] 10%` (Planning)
+## 📌 Executive Summary
+
+**Kobra OS** is a specialized security-focused operating system crafted to deliver a seamless balance between modern stealth aesthetics and raw performance. Designed with a custom cyberpunk glassmorphism UI, Kobra OS minimizes background overhead to ensure maximum system speed during intensive security auditing, digital forensics, and penetration testing operations.
 
 ---
 
-## 🛠️ System Specifications
+## ⚡ Core Technical Specifications
 
-* **Base:** Debian
-* **Desktop Environment:** XFCE4 (Lightweight & Optimized)
-* **Target RAM Usage:** ~600 MB (High Performance)
-* **Aesthetic:** Cyberpunk Dark Glass / Minimalist Transparent UI
-
----
-
-## 🏢 Organization & Development
-
-This project is officially developed and maintained under **SkyAuctus**. Kobra OS is meticulously crafted to deliver robust security auditing capabilities without compromising system speed.
-
-### 👥 Core Team
-
-* **Abdullah Saki** — *Lead Developer & Cybersecurity Specialist*
-  <p>
-    <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"></a>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
-
-* **Foysal Ahmed** — *Web Infrastructure & Operations Manager*
-  <p>
-    <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  </p>
+| Feature | Specification |
+| :--- | :--- |
+| **Operating System Base** | Debian |
+| **Desktop Environment** | XFCE4 (Custom Lightweight Configuration) |
+| **Target Memory Footprint** | ~600 MB RAM Idle |
+| **UI Aesthetics** | Cyberpunk Dark Glass / Minimalist Glassmorphism |
+| **Primary System Shell** | Bash / Zsh (Pre-configured) |
+| **Main Target Audience** | Ethical Hackers, Red Teamers & Security Engineers |
 
 ---
 
-## 🌐 SkyAuctus Official Channels
+## 🚀 Project Development Roadmap
 
-<p>
-  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/SkyAuctus_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB"></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/SkyAuctus_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="IG"></a>
-  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/SkyAuctus_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/SkyAuctus_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/SkyAuctus_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
-
----
-<p align="center">
-  <b>© 2026 SkyAuctus. All Rights Reserved.</b>
-</p>
+```text
+[   CORE ARCHITECTURE   ] ████████████████████████ 100% (Completed)
+[   UI/UX GLASSMORPHISM ] ███████████████████▒▒▒▒▒  80% (In Progress)
+[   SYSTEM PURGE/OPTIM  ] █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  40% (Pending)
+[   LIVE-PACK ISO BUILD ] █████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  20% (Queued)
+[   ARM64 PI-PACK PORT  ] ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10% (Planning)
